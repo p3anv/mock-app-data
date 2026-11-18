@@ -1,0 +1,44 @@
+[
+  {
+    "paragraph": "[TABLE]\nRegional Sales and Targets\nRegion | Sales (Rs lakh) | Target (Rs lakh) | Profit Margin %\nNorth | 480 | 500 | 18\nSouth | 620 | 600 | 15\nEast | 390 | 450 | 22\nWest | 750 | 700 | 12\nCentral | 540 | 600 | 20",
+    "question": "Which region has the highest sales?",
+    "options": ["North", "South", "East", "West", "Central"],
+    "correct": 3,
+    "explanation": "West has the highest sales at Rs 750 lakh."
+  },
+  {
+    "paragraph": "[TABLE]\nRegional Sales and Targets\nRegion | Sales (Rs lakh) | Target (Rs lakh) | Profit Margin %\nNorth | 480 | 500 | 18\nSouth | 620 | 600 | 15\nEast | 390 | 450 | 22\nWest | 750 | 700 | 12\nCentral | 540 | 600 | 20",
+    "question": "Which region achieved the highest percentage of its target?",
+    "options": ["North", "South", "East", "West", "Central"],
+    "correct": 3,
+    "explanation": "West achieved 750/700 × 100 = 107.14%, the highest percentage of target."
+  },
+  {
+    "paragraph": "[TABLE]\nRegional Sales and Targets\nRegion | Sales (Rs lakh) | Target (Rs lakh) | Profit Margin %\nNorth | 480 | 500 | 18\nSouth | 620 | 600 | 15\nEast | 390 | 450 | 22\nWest | 750 | 700 | 12\nCentral | 540 | 600 | 20",
+    "question": "What is the total profit earned across all regions (approximately, in Rs lakh)?",
+    "options": ["445.8", "452.6", "463.2", "471.5", "480.0"],
+    "correct": 2,
+    "explanation": "Profit = 480×18% + 620×15% + 390×22% + 750×12% + 540×20% = 86.4 + 93 + 85.8 + 90 + 108 = 463.2 lakh."
+  },
+  {
+    "paragraph": "[TABLE]\nRegional Sales and Targets\nRegion | Sales (Rs lakh) | Target (Rs lakh) | Profit Margin %\nNorth | 480 | 500 | 18\nSouth | 620 | 600 | 15\nEast | 390 | 450 | 22\nWest | 750 | 700 | 12\nCentral | 540 | 600 | 20",
+    "question": "Which region(s) exceeded the target but had a profit margin below 16%?",
+    "options": ["South", "West", "South and West", "North", "None of these"],
+    "correct": 2,
+    "explanation": "South exceeded target with 15% margin; West exceeded target with 12% margin. Both satisfy the condition."
+  },
+  {
+    "paragraph": "[TABLE]\nRegional Sales and Targets\nRegion | Sales (Rs lakh) | Target (Rs lakh) | Profit Margin %\nNorth | 480 | 500 | 18\nSouth | 620 | 600 | 15\nEast | 390 | 450 | 22\nWest | 750 | 700 | 12\nCentral | 540 | 600 | 20",
+    "question": "What is the difference between West sales and Central target?",
+    "options": ["100", "120", "150", "180", "200"],
+    "correct": 2,
+    "explanation": "West sales = 750; Central target = 600; difference = 150."
+  },
+  {
+    "paragraph": "[TABLE]\nRegional Sales and Targets\nRegion | Sales (Rs lakh) | Target (Rs lakh) | Profit Margin %\nNorth | 480 | 500 | 18\nSouth | 620 | 600 | 15\nEast | 390 | 450 | 22\nWest | 750 | 700 | 12\nCentral | 540 | 600 | 20",
+    "question": "If East increases sales by 20% and its profit margin remains unchanged, what is the new profit from East?",
+    "options": ["95.60", "99.84", "102.96", "105.60", "108.24"],
+    "correct": 2,
+    "explanation": "New East sales = 390 × 1.2 = 468; profit = 468 × 22% = 102.96 lakh."
+  }
+]

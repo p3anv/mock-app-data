@@ -1,0 +1,44 @@
+[
+  {
+    "paragraph": "[PIEGRAPH]\nRevenue Share of Five Products (Total Revenue Rs 800 crore)\nProduct A: 28%\nProduct B: 22%\nProduct C: 18%\nProduct D: 17%\nProduct E: 15%",
+    "question": "What is the revenue from Product C?",
+    "options": ["Rs 128 crore", "Rs 136 crore", "Rs 144 crore", "Rs 152 crore", "Rs 160 crore"],
+    "correct": 2,
+    "explanation": "Product C revenue = 18% of 800 = Rs 144 crore."
+  },
+  {
+    "paragraph": "[PIEGRAPH]\nRevenue Share of Five Products (Total Revenue Rs 800 crore)\nProduct A: 28%\nProduct B: 22%\nProduct C: 18%\nProduct D: 17%\nProduct E: 15%",
+    "question": "What is the difference between the revenue from Product A and Product D?",
+    "options": ["Rs 72 crore", "Rs 80 crore", "Rs 88 crore", "Rs 96 crore", "Rs 104 crore"],
+    "correct": 2,
+    "explanation": "Share difference = 28% − 17% = 11%; revenue difference = 11% of 800 = Rs 88 crore."
+  },
+  {
+    "paragraph": "[PIEGRAPH]\nRevenue Share of Five Products (Total Revenue Rs 800 crore)\nProduct A: 28%\nProduct B: 22%\nProduct C: 18%\nProduct D: 17%\nProduct E: 15%",
+    "question": "If Product B's revenue grows by 10% while total revenue remains Rs 800 crore, what is B's new approximate share?",
+    "options": ["22.0%", "23.1%", "24.2%", "25.0%", "26.4%"],
+    "correct": 2,
+    "explanation": "New B share = 22% × 1.10 = 24.2%."
+  },
+  {
+    "paragraph": "[PIEGRAPH]\nRevenue Share of Five Products (Total Revenue Rs 800 crore)\nProduct A: 28%\nProduct B: 22%\nProduct C: 18%\nProduct D: 17%\nProduct E: 15%",
+    "question": "What is the combined market share of Products C and E?",
+    "options": ["30%", "32%", "33%", "35%", "37%"],
+    "correct": 2,
+    "explanation": "Combined share = 18% + 15% = 33%."
+  },
+  {
+    "paragraph": "[PIEGRAPH]\nRevenue Share of Five Products (Total Revenue Rs 800 crore)\nProduct A: 28%\nProduct B: 22%\nProduct C: 18%\nProduct D: 17%\nProduct E: 15%",
+    "question": "Which product's revenue is closest to Rs 136 crore?",
+    "options": ["Product A", "Product B", "Product C", "Product D", "Product E"],
+    "correct": 3,
+    "explanation": "Rs 136 crore is 17% of Rs 800 crore, which is Product D's share."
+  },
+  {
+    "paragraph": "[PIEGRAPH]\nRevenue Share of Five Products (Total Revenue Rs 800 crore)\nProduct A: 28%\nProduct B: 22%\nProduct C: 18%\nProduct D: 17%\nProduct E: 15%",
+    "question": "If Product D's revenue decreases by Rs 20 crore while total revenue remains Rs 800 crore, what is D's new approximate share?",
+    "options": ["13.5%", "14.5%", "15.0%", "15.5%", "16.0%"],
+    "correct": 1,
+    "explanation": "Original D revenue = 17% of 800 = 136; new revenue = 116; new share = 116/800 × 100 = 14.5%."
+  }
+]

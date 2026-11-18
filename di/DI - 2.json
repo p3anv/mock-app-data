@@ -1,0 +1,44 @@
+[
+  {
+    "paragraph": "[TABLE]\nDepartment-wise Employee and Salary Data\nDepartment | Employees | Average Salary (Rs '000) | Attrition %\nHR | 40 | 25 | 10\nFinance | 60 | 35 | 8\nMarketing | 80 | 30 | 15\nOperations | 100 | 22 | 12\nIT | 70 | 45 | 9",
+    "question": "What is the total monthly salary bill of the IT department?",
+    "options": ["Rs 28.5 lakh", "Rs 30.0 lakh", "Rs 31.5 lakh", "Rs 33.0 lakh", "Rs 34.5 lakh"],
+    "correct": 2,
+    "explanation": "IT salary bill = 70 × 45 thousand = 3150 thousand = Rs 31.5 lakh."
+  },
+  {
+    "paragraph": "[TABLE]\nDepartment-wise Employee and Salary Data\nDepartment | Employees | Average Salary (Rs '000) | Attrition %\nHR | 40 | 25 | 10\nFinance | 60 | 35 | 8\nMarketing | 80 | 30 | 15\nOperations | 100 | 22 | 12\nIT | 70 | 45 | 9",
+    "question": "Which department has the highest total monthly salary bill?",
+    "options": ["HR", "Finance", "Marketing", "Operations", "IT"],
+    "correct": 4,
+    "explanation": "IT bill = 70 × 45 = 3150 thousand, the highest among all departments."
+  },
+  {
+    "paragraph": "[TABLE]\nDepartment-wise Employee and Salary Data\nDepartment | Employees | Average Salary (Rs '000) | Attrition %\nHR | 40 | 25 | 10\nFinance | 60 | 35 | 8\nMarketing | 80 | 30 | 15\nOperations | 100 | 22 | 12\nIT | 70 | 45 | 9",
+    "question": "How many employees are expected to leave the Marketing department due to attrition?",
+    "options": ["8", "10", "12", "15", "18"],
+    "correct": 2,
+    "explanation": "Marketing employees leaving = 15% of 80 = 12."
+  },
+  {
+    "paragraph": "[TABLE]\nDepartment-wise Employee and Salary Data\nDepartment | Employees | Average Salary (Rs '000) | Attrition %\nHR | 40 | 25 | 10\nFinance | 60 | 35 | 8\nMarketing | 80 | 30 | 15\nOperations | 100 | 22 | 12\nIT | 70 | 45 | 9",
+    "question": "What is the average salary per employee across all departments?",
+    "options": ["Rs 28.5 thousand", "Rs 30.0 thousand", "Rs 31.0 thousand", "Rs 32.5 thousand", "Rs 34.0 thousand"],
+    "correct": 2,
+    "explanation": "Total salary = 1000 + 2100 + 2400 + 2200 + 3150 = 10850 thousand; total employees = 350; average = 31 thousand."
+  },
+  {
+    "paragraph": "[TABLE]\nDepartment-wise Employee and Salary Data\nDepartment | Employees | Average Salary (Rs '000) | Attrition %\nHR | 40 | 25 | 10\nFinance | 60 | 35 | 8\nMarketing | 80 | 30 | 15\nOperations | 100 | 22 | 12\nIT | 70 | 45 | 9",
+    "question": "Which department's attrition rate is closest to the overall attrition rate?",
+    "options": ["HR", "Finance", "Marketing", "Operations", "IT"],
+    "correct": 3,
+    "explanation": "Overall attrition ≈ 11.17%. Operations has 12%, the closest among the given rates."
+  },
+  {
+    "paragraph": "[TABLE]\nDepartment-wise Employee and Salary Data\nDepartment | Employees | Average Salary (Rs '000) | Attrition %\nHR | 40 | 25 | 10\nFinance | 60 | 35 | 8\nMarketing | 80 | 30 | 15\nOperations | 100 | 22 | 12\nIT | 70 | 45 | 9",
+    "question": "If Operations' average salary increases by 10% and its employee count falls by 10%, what is its new approximate salary bill?",
+    "options": ["Rs 2050 thousand", "Rs 2100 thousand", "Rs 2178 thousand", "Rs 2250 thousand", "Rs 2300 thousand"],
+    "correct": 2,
+    "explanation": "New employees = 90; new average salary = 22 × 1.1 = 24.2 thousand; new bill = 90 × 24.2 = 2178 thousand."
+  }
+]

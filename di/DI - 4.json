@@ -1,0 +1,44 @@
+[
+  {
+    "paragraph": "[LINEGRAPH]\nMonthly Revenue and Expenses (Rs lakh)\nMonth | Revenue | Expenses\nJan | 120 | 90\nFeb | 150 | 110\nMar | 180 | 130\nApr | 160 | 140\nMay | 210 | 150\nJun | 240 | 170",
+    "question": "What was the profit in May?",
+    "options": ["Rs 50 lakh", "Rs 55 lakh", "Rs 60 lakh", "Rs 65 lakh", "Rs 70 lakh"],
+    "correct": 2,
+    "explanation": "May profit = 210 − 150 = Rs 60 lakh."
+  },
+  {
+    "paragraph": "[LINEGRAPH]\nMonthly Revenue and Expenses (Rs lakh)\nMonth | Revenue | Expenses\nJan | 120 | 90\nFeb | 150 | 110\nMar | 180 | 130\nApr | 160 | 140\nMay | 210 | 150\nJun | 240 | 170",
+    "question": "In which month was the profit the highest?",
+    "options": ["Jan", "Feb", "Mar", "May", "Jun"],
+    "correct": 4,
+    "explanation": "Profits: Jan 30, Feb 40, Mar 50, Apr 20, May 60, Jun 70. June is highest."
+  },
+  {
+    "paragraph": "[LINEGRAPH]\nMonthly Revenue and Expenses (Rs lakh)\nMonth | Revenue | Expenses\nJan | 120 | 90\nFeb | 150 | 110\nMar | 180 | 130\nApr | 160 | 140\nMay | 210 | 150\nJun | 240 | 170",
+    "question": "What is the percentage increase in revenue from January to June?",
+    "options": ["80%", "90%", "100%", "110%", "120%"],
+    "correct": 2,
+    "explanation": "Increase = 240 − 120 = 120; percentage = 120/120 × 100 = 100%."
+  },
+  {
+    "paragraph": "[LINEGRAPH]\nMonthly Revenue and Expenses (Rs lakh)\nMonth | Revenue | Expenses\nJan | 120 | 90\nFeb | 150 | 110\nMar | 180 | 130\nApr | 160 | 140\nMay | 210 | 150\nJun | 240 | 170",
+    "question": "What is the total expense over the six months?",
+    "options": ["Rs 760 lakh", "Rs 780 lakh", "Rs 790 lakh", "Rs 800 lakh", "Rs 820 lakh"],
+    "correct": 2,
+    "explanation": "Total expenses = 90 + 110 + 130 + 140 + 150 + 170 = Rs 790 lakh."
+  },
+  {
+    "paragraph": "[LINEGRAPH]\nMonthly Revenue and Expenses (Rs lakh)\nMonth | Revenue | Expenses\nJan | 120 | 90\nFeb | 150 | 110\nMar | 180 | 130\nApr | 160 | 140\nMay | 210 | 150\nJun | 240 | 170",
+    "question": "What is the average monthly profit over the six months?",
+    "options": ["Rs 40 lakh", "Rs 42 lakh", "Rs 45 lakh", "Rs 48 lakh", "Rs 50 lakh"],
+    "correct": 2,
+    "explanation": "Total revenue = 1060; total expenses = 790; total profit = 270; average = 270/6 = Rs 45 lakh."
+  },
+  {
+    "paragraph": "[LINEGRAPH]\nMonthly Revenue and Expenses (Rs lakh)\nMonth | Revenue | Expenses\nJan | 120 | 90\nFeb | 150 | 110\nMar | 180 | 130\nApr | 160 | 140\nMay | 210 | 150\nJun | 240 | 170",
+    "question": "In which month were expenses the highest relative to revenue?",
+    "options": ["Jan", "Feb", "Mar", "Apr", "May"],
+    "correct": 3,
+    "explanation": "Expense-to-revenue ratio is highest in April: 140/160 = 87.5%."
+  }
+]

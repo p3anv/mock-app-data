@@ -1,0 +1,44 @@
+[
+  {
+    "paragraph": "[BARGRAPH]\nMonthly Production (units)\nMonth | Plant A | Plant B | Plant C\nJan | 1200 | 900 | 1500\nFeb | 1400 | 1100 | 1300\nMar | 1000 | 1600 | 1200\nApr | 1800 | 1400 | 1700\nMay | 1600 | 1200 | 1100\nJun | 1500 | 1800 | 1400",
+    "question": "What was the total production of all three plants in March?",
+    "options": ["3600", "3700", "3800", "3900", "4000"],
+    "correct": 2,
+    "explanation": "March total = 1000 + 1600 + 1200 = 3800 units."
+  },
+  {
+    "paragraph": "[BARGRAPH]\nMonthly Production (units)\nMonth | Plant A | Plant B | Plant C\nJan | 1200 | 900 | 1500\nFeb | 1400 | 1100 | 1300\nMar | 1000 | 1600 | 1200\nApr | 1800 | 1400 | 1700\nMay | 1600 | 1200 | 1100\nJun | 1500 | 1800 | 1400",
+    "question": "Which plant had the highest total production over the six months?",
+    "options": ["Plant A", "Plant B", "Plant C", "Plant A and B", "All equal"],
+    "correct": 0,
+    "explanation": "Plant A total = 8500; Plant B = 8000; Plant C = 8200. Plant A is highest."
+  },
+  {
+    "paragraph": "[BARGRAPH]\nMonthly Production (units)\nMonth | Plant A | Plant B | Plant C\nJan | 1200 | 900 | 1500\nFeb | 1400 | 1100 | 1300\nMar | 1000 | 1600 | 1200\nApr | 1800 | 1400 | 1700\nMay | 1600 | 1200 | 1100\nJun | 1500 | 1800 | 1400",
+    "question": "In which month was the combined production of all plants the highest?",
+    "options": ["Jan", "Feb", "Mar", "Apr", "May"],
+    "correct": 3,
+    "explanation": "April total = 1800 + 1400 + 1700 = 4900, the highest monthly total."
+  },
+  {
+    "paragraph": "[BARGRAPH]\nMonthly Production (units)\nMonth | Plant A | Plant B | Plant C\nJan | 1200 | 900 | 1500\nFeb | 1400 | 1100 | 1300\nMar | 1000 | 1600 | 1200\nApr | 1800 | 1400 | 1700\nMay | 1600 | 1200 | 1100\nJun | 1500 | 1800 | 1400",
+    "question": "Plant C's April production was what percentage of total April production?",
+    "options": ["32.5%", "34.7%", "36.2%", "38.1%", "40.0%"],
+    "correct": 1,
+    "explanation": "Plant C April = 1700; April total = 4900; percentage = 1700/4900 × 100 = 34.69% ≈ 34.7%."
+  },
+  {
+    "paragraph": "[BARGRAPH]\nMonthly Production (units)\nMonth | Plant A | Plant B | Plant C\nJan | 1200 | 900 | 1500\nFeb | 1400 | 1100 | 1300\nMar | 1000 | 1600 | 1200\nApr | 1800 | 1400 | 1700\nMay | 1600 | 1200 | 1100\nJun | 1500 | 1800 | 1400",
+    "question": "What is the difference between the highest and lowest monthly combined production?",
+    "options": ["1100", "1200", "1300", "1400", "1500"],
+    "correct": 2,
+    "explanation": "Highest monthly total = 4900 (April); lowest = 3600 (Jan); difference = 1300."
+  },
+  {
+    "paragraph": "[BARGRAPH]\nMonthly Production (units)\nMonth | Plant A | Plant B | Plant C\nJan | 1200 | 900 | 1500\nFeb | 1400 | 1100 | 1300\nMar | 1000 | 1600 | 1200\nApr | 1800 | 1400 | 1700\nMay | 1600 | 1200 | 1100\nJun | 1500 | 1800 | 1400",
+    "question": "If Plant B's June production increases by 25%, what will be the new total June production of all plants?",
+    "options": ["4850", "4950", "5050", "5150", "5250"],
+    "correct": 3,
+    "explanation": "New Plant B June = 1800 × 1.25 = 2250; new June total = 1500 + 2250 + 1400 = 5150."
+  }
+]
