@@ -1,0 +1,191 @@
+[
+  {
+    "question": "Choose the word closest in meaning to 'ambiguous'.",
+    "options": ["Clear", "Forceful", "Vague", "Elegant", "Fragile"],
+    "correct": 2,
+    "explanation": "Ambiguous means unclear or open to more than one interpretation; vague is the closest synonym."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'apathy'.",
+    "options": ["Indifference", "Silence", "Fatigue", "Enthusiasm", "Confusion"],
+    "correct": 3,
+    "explanation": "Apathy means lack of interest or concern; enthusiasm is its opposite."
+  },
+  {
+    "paragraph": "The climb was so _____ that many trekkers gave up halfway.",
+    "question": "Which word best fills the blank?",
+    "options": ["banal", "arduous", "glib", "vapid", "terse"],
+    "correct": 1,
+    "explanation": "Arduous means requiring great effort; it fits the context of a difficult climb."
+  },
+  {
+    "question": "Choose the word that does NOT belong with 'banal'.",
+    "options": ["Trite", "Commonplace", "Hackneyed", "Original", "Stale"],
+    "correct": 3,
+    "explanation": "Banal means commonplace or trite; original is the odd one out."
+  },
+  {
+    "question": "Choose the word closest in meaning to 'bolster'.",
+    "options": ["Support", "Weaken", "Undermine", "Ignore", "Abandon"],
+    "correct": 0,
+    "explanation": "Bolster means to support or strengthen."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'capricious'.",
+    "options": ["Fickle", "Whimsical", "Steady", "Unpredictable", "Erratic"],
+    "correct": 2,
+    "explanation": "Capricious means given to sudden changes of mood; steady is the opposite."
+  },
+  {
+    "paragraph": "Her _____ remarks about his mistake hurt him deeply.",
+    "question": "Which word best fills the blank?",
+    "options": ["mild", "gentle", "soothing", "kind", "caustic"],
+    "correct": 4,
+    "explanation": "Caustic means harsh or corrosive in tone; it fits remarks that hurt."
+  },
+  {
+    "paragraph": "The manager was too _____ about falling sales and did nothing to fix them.",
+    "question": "Which word best describes the manager's attitude?",
+    "options": ["Diligent", "Complacent", "Competent", "Alert", "Concerned"],
+    "correct": 1,
+    "explanation": "Complacent means self-satisfied and unaware of danger, which explains the inaction."
+  },
+  {
+    "question": "Choose the word closest in meaning to 'condone'.",
+    "options": ["Condemn", "Punish", "Criticize", "Overlook", "Blame"],
+    "correct": 3,
+    "explanation": "Condone means to excuse or overlook wrongdoing."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'conundrum'.",
+    "options": ["Solution", "Puzzle", "Mystery", "Riddle", "Enigma"],
+    "correct": 0,
+    "explanation": "Conundrum means a difficult problem; solution is the opposite."
+  },
+  {
+    "paragraph": "The theory gained _____ after new evidence emerged.",
+    "question": "Which word best fills the blank?",
+    "options": ["doubt", "disbelief", "credence", "suspicion", "denial"],
+    "correct": 2,
+    "explanation": "Credence means belief or acceptance as true; evidence would strengthen belief."
+  },
+  {
+    "question": "Choose the word that does NOT belong with 'dearth'.",
+    "options": ["Scarcity", "Lack", "Shortage", "Paucity", "Abundance"],
+    "correct": 4,
+    "explanation": "Dearth means scarcity or lack; abundance is the odd one out."
+  },
+  {
+    "question": "Choose the word closest in meaning to 'denigrate'.",
+    "options": ["Praise", "Defame", "Honor", "Extol", "Laud"],
+    "correct": 1,
+    "explanation": "Denigrate means to attack the reputation of; defame is closest in meaning."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'deride'.",
+    "options": ["Mock", "Ridicule", "Scorn", "Respect", "Taunt"],
+    "correct": 3,
+    "explanation": "Deride means to mock or ridicule; respect is the opposite."
+  },
+  {
+    "question": "Which word means 'a division into two sharply contrasting parts'?",
+    "options": ["Dichotomy", "Dilemma", "Diatribe", "Digression", "Diversity"],
+    "correct": 0,
+    "explanation": "Dichotomy is a two-way division into opposed parts."
+  },
+  {
+    "paragraph": "It was hard to _____ the truth amid the conflicting reports.",
+    "question": "Which word best fills the blank?",
+    "options": ["ignore", "conceal", "discern", "hide", "suppress"],
+    "correct": 2,
+    "explanation": "Discern means to perceive or detect, which fits finding the truth."
+  },
+  {
+    "question": "Choose the word closest in meaning to 'disparage'.",
+    "options": ["Extol", "Praise", "Honor", "Admire", "Belittle"],
+    "correct": 4,
+    "explanation": "Disparage means to belittle or express a negative opinion of."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'disparate'.",
+    "options": ["Different", "Similar", "Distinct", "Unrelated", "Divergent"],
+    "correct": 1,
+    "explanation": "Disparate means fundamentally different; similar is the opposite."
+  },
+  {
+    "paragraph": "The organization _____ health information to rural areas.",
+    "question": "Which word best fills the blank?",
+    "options": ["suppresses", "conceals", "hides", "disseminates", "withholds"],
+    "correct": 3,
+    "explanation": "Disseminate means to spread widely, which fits distributing health information."
+  },
+  {
+    "question": "Choose the word that does NOT belong with 'dogmatic'.",
+    "options": ["Open-minded", "Opinionated", "Assertive", "Dictatorial", "Arrogant"],
+    "correct": 0,
+    "explanation": "Dogmatic means asserting beliefs as unquestionably true; open-minded is the odd one out."
+  },
+  {
+    "question": "Choose the word closest in meaning to 'eclectic'.",
+    "options": ["Narrow", "Rigid", "Diverse", "Uniform", "Dull"],
+    "correct": 2,
+    "explanation": "Eclectic means drawing from a broad range of sources; diverse is closest."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'efficacy'.",
+    "options": ["Effectiveness", "Potency", "Power", "Ineffectiveness", "Strength"],
+    "correct": 3,
+    "explanation": "Efficacy means power to produce a desired effect; ineffectiveness is the opposite."
+  },
+  {
+    "paragraph": "The question _____ a strong reaction from the audience.",
+    "question": "Which word best fills the blank?",
+    "options": ["suppressed", "elicited", "repressed", "concealed", "hid"],
+    "correct": 1,
+    "explanation": "Elicit means to draw out a response or reaction."
+  },
+  {
+    "paragraph": "His claims lack _____ evidence and are based only on speculation.",
+    "question": "Which word best fills the blank?",
+    "options": ["elegant", "elaborate", "external", "empirical", "eternal"],
+    "correct": 3,
+    "explanation": "Empirical means based on observation or experiment, as opposed to speculation."
+  },
+  {
+    "question": "Choose the word closest in meaning to 'emulate'.",
+    "options": ["Imitate", "Neglect", "Ignore", "Abandon", "Reject"],
+    "correct": 0,
+    "explanation": "Emulate means to imitate or strive to equal."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'engender'.",
+    "options": ["Create", "Destroy", "Produce", "Generate", "Cause"],
+    "correct": 1,
+    "explanation": "Engender means to give rise to; destroy is the opposite."
+  },
+  {
+    "paragraph": "Fame on social media is often _____ and fades quickly.",
+    "question": "Which word best fills the blank?",
+    "options": ["permanent", "enduring", "lasting", "eternal", "ephemeral"],
+    "correct": 4,
+    "explanation": "Ephemeral means short-lived, which fits fame that fades quickly."
+  },
+  {
+    "question": "Choose the word that does NOT belong with 'equivocation'.",
+    "options": ["Ambiguity", "Clarity", "Evasion", "Prevarication", "Vagueness"],
+    "correct": 1,
+    "explanation": "Equivocation means deliberate ambiguity to conceal truth; clarity is the odd one out."
+  },
+  {
+    "question": "Choose the word closest in meaning to 'erudite'.",
+    "options": ["Ignorant", "Naive", "Illiterate", "Scholarly", "Simple"],
+    "correct": 3,
+    "explanation": "Erudite means having or showing profound knowledge; scholarly is closest."
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'exacerbate'.",
+    "options": ["Alleviate", "Worsen", "Aggravate", "Intensify", "Inflame"],
+    "correct": 0,
+    "explanation": "Exacerbate means to make worse; alleviate means to relieve or make less severe."
+  }
+]
