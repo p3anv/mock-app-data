@@ -1,0 +1,72 @@
+[
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Which of the following best describes the Eagle?",
+    "options": ["The Eagle was courageous.", "The Eagle was a coward.", "The Eagle was noble.", "The Eagle was good at flying.", "The Eagle was revengeful."],
+    "correct": 2,
+    "explanation": "The passage explicitly describes the Eagle as 'the noble Eagle' when it saves the Countryman."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Why was the Serpent furious?",
+    "options": ["Because the Eagle escaped and now the Serpent was going to starve.", "Because the Eagle tried to shake off the Serpent during their conflict.", "Because the Serpent could not bite the Countryman.", "Because the Countryman took advantage of the conflict and captured both of them.", "Because the Countryman saved the Eagle."],
+    "correct": 4,
+    "explanation": "The text says the Serpent was furious because the Countryman freed the Eagle, thus spoiling the Serpent's kill/attack."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "What did the Eagle do to shake off his enemy?",
+    "options": ["The Eagle tightened his hold on the Serpent.", "The Eagle gave up all hope and fell to his death.", "The Eagle pecked and clawed at the Serpent.", "The Eagle soared into the sky.", "The Eagle begged the Countryman to save him."],
+    "correct": 3,
+    "explanation": "The passage states, 'Far into the sky he soared trying to shake off his enemy.'"
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Why did the Eagle seize the drinking horn and carried it aloft?",
+    "options": ["The Eagle liked collecting artifacts.", "To prevent the man from drinking the poisoned water.", "The Eagle was thirsty after the battle.", "The drinking horn was pretty.", "The drinking horn contained water from a holy spring."],
+    "correct": 1,
+    "explanation": "The Eagle knew the horn was poisoned by the Serpent and swooped down to prevent the unaware Countryman from drinking it."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Which of the following is a suitable moral for the story?",
+    "options": ["An act of kindness is well repaid.", "It is wicked to take advantage of another's distress.", "Take warning from the misfortunes of others.", "Honesty is the best policy.", "In unity is strength."],
+    "correct": 0,
+    "explanation": "The Countryman helped the Eagle, and in return, the Eagle saved the Countryman's life, demonstrating that kindness is repaid."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Which of the following is synonymous to the word \"pity\"?",
+    "options": ["Indifference", "Cruelty", "Sympathy", "Reality", "Lack"],
+    "correct": 2,
+    "explanation": "Pity is a feeling of sorrow and compassion for the sufferings of others. Sympathy is the closest synonym."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Which of the following is synonymous to the word \"rustic\"? (Note: The passage describes the man as a Countryman)",
+    "options": ["Pretentious", "Simple", "Pompous", "Foolish", "Old"],
+    "correct": 1,
+    "explanation": "Rustic relates to the countryside; a rustic or country person is often associated with being simple and plain."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Which of the following is closest in meaning to the word \"aloft\"?",
+    "options": ["Skyward", "Nest", "Down", "Flying", "Backward"],
+    "correct": 0,
+    "explanation": "Aloft means up in or into the air. Skyward is the closest meaning."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Which of the following is antonymous to the word \"conflict\"?",
+    "options": ["Dispute", "Quarrel", "Fight", "Clash", "Peace"],
+    "correct": 4,
+    "explanation": "Conflict means a serious disagreement or clash. Peace is the opposite state."
+  },
+  {
+    "paragraph": "A Serpent had succeeded in surprising an Eagle and had wrapped himself around the Eagle's neck. They struggled and fought each other in a deadly conflict. The Eagle could not reach the Serpent, neither with beak nor claws. Far into the sky he soared trying to shake off his enemy. But the Serpent's hold only tightened, and slowly the Eagle sank back to earth, gasping for breath.\n\nA Countryman chanced to see the unequal combat. In pity for the Eagle he rushed up and soon had loosened the Serpent and freed the Eagle.\n\nThe Serpent was furious. He had no chance to bite the watchful Countryman. Instead he struck at the drinking horn hanging at the Countryman's belt, and into it let fly the poison of his fangs.\n\nThe Countryman now went on toward home. On his way he felt thirsty, so he filled his horn at a spring. The man, ignorant of his danger, was about to drink, when there was a sudden rush of great wings. Sweeping down, the noble Eagle seized the poisoned horn in his talons, and carried it aloft.",
+    "question": "Which of the following is antonymous to the word \"soared\"?",
+    "options": ["Regret", "Swollen", "Plummet", "Lost", "Left"],
+    "correct": 2,
+    "explanation": "Soared means flew or rose high. Plummet means to fall or drop straight down at high speed."
+  }
+]
