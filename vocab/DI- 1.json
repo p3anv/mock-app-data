@@ -1,0 +1,72 @@
+[
+  {
+    "paragraph": "[TABLE]\nEmployee Sales Data\nName | Sales\nAmit | 1450\nNeha | 1320\nRohit | 1580\nPriya | 1490\nKaran | 1210",
+    "question": "Who has the highest sales figure?",
+    "options": ["Amit", "Neha", "Rohit", "Priya", "Karan"],
+    "correct": 2,
+    "explanation": "Rohit has the highest sales at 1580 units."
+  },
+  {
+    "paragraph": "[TABLE]\nDepartment Sales Data\nDepartment | Sales\nHR | 420\nFinance | 560\nMarketing | 610\nOperations | 590",
+    "question": "Which department has the highest sales?",
+    "options": ["HR", "Finance", "Marketing", "Operations"],
+    "correct": 2,
+    "explanation": "Marketing has the highest sales at 610 units."
+  },
+  {
+    "paragraph": "[TABLE]\nMonthly Attendance Data\nMonth | Attendance (%)\nJan | 92\nFeb | 88\nMar | 95\nApr | 90\nMay | 93",
+    "question": "In which month was the attendance the highest?",
+    "options": ["Jan", "Feb", "Mar", "Apr", "May"],
+    "correct": 2,
+    "explanation": "March had the highest attendance at 95%."
+  },
+  {
+    "paragraph": "[TABLE]\nQuarterly Profit Data\nQuarter | Profit (Rs lakh)\nQ1 | 12\nQ2 | 15\nQ3 | 11\nQ4 | 18",
+    "question": "Which quarter recorded the highest profit?",
+    "options": ["Q1", "Q2", "Q3", "Q4"],
+    "correct": 3,
+    "explanation": "Q4 recorded the highest profit at Rs 18 lakh."
+  },
+  {
+    "paragraph": "[TABLE]\nExpense Category Data\nCategory | Expense (Rs)\nRent | 25000\nSalaries | 48000\nUtilities | 12000\nMarketing | 18000",
+    "question": "Which expense category is the highest?",
+    "options": ["Rent", "Salaries", "Utilities", "Marketing"],
+    "correct": 1,
+    "explanation": "Salaries is the highest expense category at Rs 48,000."
+  },
+  {
+    "paragraph": "[TABLE]\nStudent Marks Data\nStudent | Maths | Science | English\nAnita | 78 | 82 | 75\nVikram | 85 | 80 | 88\nSonal | 90 | 86 | 84\nRahul | 72 | 91 | 80",
+    "question": "Who scored the highest total marks?",
+    "options": ["Anita", "Vikram", "Sonal", "Rahul"],
+    "correct": 2,
+    "explanation": "Sonal scored the highest total: 90 + 86 + 84 = 260."
+  },
+  {
+    "paragraph": "[TABLE]\nFactory Production Data\nFactory | Units Produced\nA | 1250\nB | 1480\nC | 1390\nD | 1520",
+    "question": "Which factory produced the most units?",
+    "options": ["A", "B", "C", "D"],
+    "correct": 3,
+    "explanation": "Factory D produced the most units at 1520."
+  },
+  {
+    "paragraph": "[TABLE]\nProduct Revenue Data\nProduct | Revenue (Rs crore)\nP | 24\nQ | 31\nR | 28\nS | 35",
+    "question": "Which product generated the highest revenue?",
+    "options": ["P", "Q", "R", "S"],
+    "correct": 3,
+    "explanation": "Product S generated the highest revenue at Rs 35 crore."
+  },
+  {
+    "paragraph": "[TABLE]\nInventory Stock Data\nItem | Stock (units)\nPen | 450\nPencil | 320\nEraser | 275\nNotebook | 390",
+    "question": "Which item has the lowest stock?",
+    "options": ["Pen", "Pencil", "Eraser", "Notebook"],
+    "correct": 2,
+    "explanation": "Eraser has the lowest stock at 275 units."
+  },
+  {
+    "paragraph": "[TABLE]\nEmployee Rating Data\nEmployee | Rating\nAnil | 4.1\nBhavna | 3.9\nChirag | 4.6\nDivya | 4.3",
+    "question": "Who has the lowest rating?",
+    "options": ["Anil", "Bhavna", "Chirag", "Divya"],
+    "correct": 1,
+    "explanation": "Bhavna has the lowest rating at 3.9."
+  }
+]
